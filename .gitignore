@@ -1,8 +1,0 @@
-.idea*
-env
-inventory
-artifacts
-cluster
-*-openrc.sh
-*.rspec
-!conf/*.ini
